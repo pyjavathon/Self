@@ -9,4 +9,7 @@ public class People {
 		this.name = name;
 		this.ssn = ssn;
 	}
+	
+	
+	
 }
